@@ -1,0 +1,4 @@
+zhangsan|zhangsan123|3000
+lisi|lisi123|4000
+wangwu|wangwu123|5000
+
