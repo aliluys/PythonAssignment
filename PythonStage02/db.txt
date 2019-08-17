@@ -1,0 +1,4 @@
+lisi|lisi123|1900
+zhansan|lisi|5000
+zs|zs
+|2000|2000|2000

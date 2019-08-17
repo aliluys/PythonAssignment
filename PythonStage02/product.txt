@@ -1,0 +1,4 @@
+Iphone:6000
+Vivo:3000
+Xiaomi:3100
+Bike:100
